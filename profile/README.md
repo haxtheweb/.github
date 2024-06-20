@@ -10,12 +10,12 @@ Get all the details you want on [HAX Docs]([https://haxtheweb.org/haxcms-1](http
 HAX seeks to be the smallest possible back-end CMS to make HAX work and be able to build websites with it. Leveraging JSON Outline Schema, HAX is able to author multiple pages, which it then writes onto the file system. This way a slim server layer is just for basic authentication, knowing how to save files, and placing them in version control.
 
 ## Quick definitions
-- Web components: custom HTML tags like <video-player> that extend the web and act as native HTML elements. Fast and work anywhere thanks to Lit.
-- Lit - A popular, small library for making web components. It's not required to build, we just love building with it. https://lit.dev/
+- [Web components](https://developer.mozilla.org/en-US/docs/Web/API/Web_Components): custom HTML tags like <video-player> that extend the web and act as native HTML elements. Fast and work anywhere thanks to Lit.
+- [Lit](https://lit.dev) - A popular, small library for making web components. It's not required to build, we just love building with it.
 - HAX - Headless Authoring eXperience - A system that is not tied to a back end and all of our pieces are not tied together yet work together elegantly.
 - [HAXcms](https://github.com/haxtheweb/haxcms) - Content Management System built on top of the HAX ecosystem. HAXcms can operate in single-site and multi-site management modes.
 - HAXsite - an individual website built in HAXcms.
-- [HAXiam](https://github.com/haxtheweb/HAXiam) - HAXcms but SaaS
+- [HAXiam](https://github.com/haxtheweb/HAXiam) - HAXcms but SaaS. [HAX.psu](https://hax.psu.edu/) is powered by HAXiam and allows university users logging in to automatically get a copy of HAXcms to build with.
 
 # Issues / Support / Community
 - Unified issue queue - https://github.com/haxtheweb/issues/issues
