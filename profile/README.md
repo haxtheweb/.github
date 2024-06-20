@@ -13,9 +13,9 @@ HAX seeks to be the smallest possible back-end CMS to make HAX work and be able 
 - Web components: custom HTML tags like <video-player> that extend the web and act as native HTML elements. Fast and work anywhere thanks to Lit.
 - Lit - A popular, small library for making web components. It's not required to build, we just love building with it. https://lit.dev/
 - HAX - Headless Authoring eXperience - A system that is not tied to a back end and all of our pieces are not tied together yet work together elegantly.
-- HAXcms - Content Management System built on top of the HAX ecosystem. HAXcms can operate in single-site and multi-site management modes.
+- [HAXcms](https://github.com/haxtheweb/haxcms) - Content Management System built on top of the HAX ecosystem. HAXcms can operate in single-site and multi-site management modes.
 - HAXsite - an individual website built in HAXcms.
-- HAXiam - HAXcms but SaaS
+- [HAXiam](https://github.com/haxtheweb/HAXiam) - HAXcms but SaaS
 
 # Issues / Support / Community
 - Unified issue queue - https://github.com/haxtheweb/issues/issues
