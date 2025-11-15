@@ -2,7 +2,7 @@
 Moonshots take time, are big, bold, and ultimately the world is different on the other side of their happening. This is one of those.
 We seek to improve the web for all by making a ubiquitous format for web creation. Built on top of the W3C meta-specification "web components" the HAX authoring environment is extended by extending the web. HAX knows how to edit web components.
 
-Write HTML without realizing it, in a highly semantic, forever format that never breaks, won't need maintained, and yet is easy to use. Let's unlock creativity and self expression for all users, regardless of technical ability.
+Write HTML without realizing it in a highly semantic, forever format that is still easy to use by anyone! Let's unlock creativity and self expression for all users, regardless of technical ability.
 
 # HAX
 The authoring experience of HAX and the ability to make fast, static file backed websites rapidly.
