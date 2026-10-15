@@ -1,24 +1,16 @@
 # HAX The Web
-Moonshots take time, are big, bold, and ultimately the world is different on the other side of their happening. This is one of those.
-We seek to improve the web for all by making a ubiquitous format for web creation. Built on top of the W3C meta-specification "web components" the HAX authoring environment is extended by extending the web. HAX knows how to edit web components.
 
-Write HTML without realizing it in a highly semantic, forever format that is still easy to use by anyone! Let's unlock creativity and self expression for all users, regardless of technical ability.
+**Open source, accessible website authoring built on web components.**
+HAX lets anyone build fast, static-file websites in clean, semantic HTML without needing to know HTML. Content stays portable, standards-based, and ready for humans and AI to remix.
 
-# HAX
-The authoring experience of HAX and the ability to make fast, static file backed websites rapidly.
-Get all the details you want on [HAX Docs]([https://haxtheweb.org/haxcms-1](https://oer.hax.psu.edu/bto108/sites/haxcellence/documentation))!
-HAX seeks to be the smallest possible back-end CMS to make HAX work and be able to build websites with it. Leveraging JSON Outline Schema, HAX is able to author multiple pages, which it then writes onto the file system. This way a slim server layer is just for basic authentication, knowing how to save files, and placing them in version control.
+🚀 **Get started:** `npm install @haxtheweb/create --global` then `hax start`
+📚 **Docs:** [HAX documentation](https://oer.hax.psu.edu/bto108/sites/haxcellence/documentation)
 
-## Quick definitions
-- [Web components](https://developer.mozilla.org/en-US/docs/Web/API/Web_Components): custom HTML tags like <video-player> that extend the web and act as native HTML elements. Fast and work anywhere thanks to Lit.
-- [Lit](https://lit.dev) - A popular, small library for making web components. It's not required to build, we just love building with it.
-- HAX - Headless Authoring eXperience - A system that is not tied to a back end and all of our pieces are not tied together yet work together elegantly.
-- [HAXcms](https://github.com/haxtheweb/haxcms) - Content Management System built on top of the HAX ecosystem. HAXcms can operate in single-site and multi-site management modes.
-- HAXsite - an individual website built in HAXcms.
-- [HAXiam](https://github.com/haxtheweb/HAXiam) - HAXcms but SaaS. [HAX.psu](https://hax.psu.edu/) is powered by HAXiam and allows university users logging in to automatically get a copy of HAXcms to build with.
+## What's here
+- **[HAXcms](https://github.com/haxtheweb/haxcms)** — lightweight, file-based CMS (single or multi-site)
+- **[webcomponents](https://github.com/haxtheweb/webcomponents)** — HAX-ready elements and the DDD design system, built with [Lit](https://lit.dev)
+- **[create](https://github.com/haxtheweb/create)** — the `hax` CLI for building sites and components
+- **[HAXiam](https://github.com/haxtheweb/HAXiam)** — multi-tenant HAXcms, powering [hax.psu.edu](https://hax.psu.edu/)
 
-# Issues / Support / Community
-- Unified issue queue - https://github.com/haxtheweb/issues/issues
-- Youtube channel - https://www.youtube.com/@haxtheweb
-- Discord Channel - https://bit.ly/hax-discord
-- Using Merlin directly in any HAX spaces and type "Issue" to jump start a report!
+## Get involved
+[Issues](https://github.com/haxtheweb/issues/issues) · [Discord](https://bit.ly/hax-discord) · [YouTube](https://www.youtube.com/@haxtheweb) · or type "Issue" to Merlin in any HAX space
